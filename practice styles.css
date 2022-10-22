@@ -1,7 +1,16 @@
 body{
-  background-color: red;
+  background-color: #98A8F8;
 }
 
+h1{
+  color: #FF97C1;
+  background-color: #749F82;
+}
+
+h3{
+  color: #FF97C1;
+  background-color: #749F82;
+}
 hr{
   border-style: none;
   border-top-style: dotted;
